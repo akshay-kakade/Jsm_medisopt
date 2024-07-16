@@ -108,7 +108,7 @@ const RenderField = ({ field, props }: { field: any; props: CustomProps }) => {
       return (
         <div className="flex rounded-md border border-dark-500 bg-dark-400">
           <Image
-            src="/assets/icons/Calendar.svg"
+            src="/assets/icons/calendar.svg"
             height={24}
             width={24}
             alt="calendar"
